@@ -1,0 +1,11 @@
+C:\Users\Desenvolvedor\Desktop\Projeto Visual Studio\Thirdperformance\Thirdperformance\bin\Debug\netcoreapp2.1\Thirdperformance.deps.json
+C:\Users\Desenvolvedor\Desktop\Projeto Visual Studio\Thirdperformance\Thirdperformance\bin\Debug\netcoreapp2.1\Thirdperformance.runtimeconfig.json
+C:\Users\Desenvolvedor\Desktop\Projeto Visual Studio\Thirdperformance\Thirdperformance\bin\Debug\netcoreapp2.1\Thirdperformance.runtimeconfig.dev.json
+C:\Users\Desenvolvedor\Desktop\Projeto Visual Studio\Thirdperformance\Thirdperformance\bin\Debug\netcoreapp2.1\Thirdperformance.dll
+C:\Users\Desenvolvedor\Desktop\Projeto Visual Studio\Thirdperformance\Thirdperformance\bin\Debug\netcoreapp2.1\Thirdperformance.pdb
+C:\Users\Desenvolvedor\Desktop\Projeto Visual Studio\Thirdperformance\Thirdperformance\obj\Debug\netcoreapp2.1\Thirdperformance.csprojAssemblyReference.cache
+C:\Users\Desenvolvedor\Desktop\Projeto Visual Studio\Thirdperformance\Thirdperformance\obj\Debug\netcoreapp2.1\Thirdperformance.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvedor\Desktop\Projeto Visual Studio\Thirdperformance\Thirdperformance\obj\Debug\netcoreapp2.1\Thirdperformance.AssemblyInfoInputs.cache
+C:\Users\Desenvolvedor\Desktop\Projeto Visual Studio\Thirdperformance\Thirdperformance\obj\Debug\netcoreapp2.1\Thirdperformance.AssemblyInfo.cs
+C:\Users\Desenvolvedor\Desktop\Projeto Visual Studio\Thirdperformance\Thirdperformance\obj\Debug\netcoreapp2.1\Thirdperformance.dll
+C:\Users\Desenvolvedor\Desktop\Projeto Visual Studio\Thirdperformance\Thirdperformance\obj\Debug\netcoreapp2.1\Thirdperformance.pdb
